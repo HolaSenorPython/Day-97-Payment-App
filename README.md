@@ -1,0 +1,1 @@
+This app doesnt actually take any payments obviously, as it is all local, but it was practice for setting up potential future e-commerce websites, and processing and handling payments. Stripe API is cool beans! 🫘
